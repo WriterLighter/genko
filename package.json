@@ -1,0 +1,8 @@
+{
+  "name": "genko",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:WriterLighter/genko.git",
+  "author": "Yugo Yagita <2000ygkn0713@gmail.com>",
+  "license": "MIT"
+}
